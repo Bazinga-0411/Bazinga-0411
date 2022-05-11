@@ -4,5 +4,5 @@
 
 A finance coder in Shanghai | Fiance of @victoryang00
 
-Find me on: [GitHub](https://github.com/Bazinga-411) | [Twitter](https://twitter.com/Bazinga419) | [Instagram](https://www.instagram.com/huangqinyang2000) | [LinkedIn](https://www.linkedin.com/in/lily-huang-931b531a6/) | [Email](mailto:huangqinyang2000@163.com)
+Find me on: [GitHub](https://github.com/Bazinga-0411) | [Twitter](https://twitter.com/Bazinga419) | [Instagram](https://www.instagram.com/huangqinyang2000) | [LinkedIn](https://www.linkedin.com/in/lily-huang-931b531a6/) | [Email](mailto:huangqinyang2000@163.com)
 
