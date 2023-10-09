@@ -4,5 +4,5 @@
 
 A finance coder in North Carolina
 
-Find me on: [GitHub](https://github.com/Bazinga-0411) | [Twitter](https://twitter.com/Bazinga419) | [Instagram]([https://www.instagram.com/huangqinyang2000](https://www.instagram.com/lilyhuanglalala/)) | [LinkedIn](  https://www.linkedin.com/in/QinyangHuang/) | [Email](mailto:qhuang26@ncsu.edu)
+Find me on: [GitHub](https://github.com/Bazinga-0411) | [Twitter](https://twitter.com/Bazinga419) | [Instagram]((https://www.instagram.com/lilyhuanglalala/)) | [LinkedIn](  https://www.linkedin.com/in/QinyangHuang/) | [Email](mailto:qhuang26@ncsu.edu)
 
