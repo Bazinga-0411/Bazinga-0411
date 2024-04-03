@@ -4,5 +4,5 @@
 
 I am currently a graduate student at North Carolina State University for the Masters in Financial Mathematics Program. I'm interested in QuantFinance and Machine Learning.
 
-Find me on: [Resume]([https://github.com/Bazinga-0411](https://github.com/Bazinga-0411/resume/releases/download/main/resume.pdf)) | [Twitter](https://twitter.com/Bazinga419) | [Instagram](https://www.instagram.com/lilyhuanglalala/) | [LinkedIn](https://www.linkedin.com/in/QinyangHuang/) | [Email](mailto:qhuang26@ncsu.edu)
+Find me on: [Resume](https://github.com/Bazinga-0411/resume/releases/download/main/resume.pdf)) | [Twitter](https://twitter.com/Bazinga419) | [Instagram](https://www.instagram.com/lilyhuanglalala/) | [LinkedIn](https://www.linkedin.com/in/QinyangHuang/) | [Email](mailto:qhuang26@ncsu.edu)
 
